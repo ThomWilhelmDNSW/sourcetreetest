@@ -1,1 +1,1 @@
-<? echo "documentation"; ?>
+<? echo "documentation version 2"; ?>
